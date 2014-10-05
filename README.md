@@ -29,7 +29,7 @@ In computers, everything is made up of [bits](http://en.wikipedia.org/wiki/Bit).
 <?php
 use Edp\PhpComputer\Bit;
 
-$bit = Bit;
+$bit = new Bit;
 $bit->on();    // turns the bit on (default state is off)
 $bit->off();   // turns the bit off
 $bit->state(); // returns the current state of the bit (1 for on, 0 for off)
