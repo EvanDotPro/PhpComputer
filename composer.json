@@ -1,0 +1,25 @@
+{
+    "name": "evandotpro/php-computer",
+    "description": "A completely useless library of low-level computing concepts implemented in OOP PHP.",
+    "keywords": [
+        "computing",
+        "bit",
+        "nand",
+        "memory"
+    ],
+    "homepage": "https://github.com/EvanDotPro/PhpComputer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evan Coury",
+            "email": "me@evancoury.com",
+            "homepage": "http://blog.evan.pro/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Edp\\PhpComputer\\": ["src", "tests"]
+        }
+    }
+}
