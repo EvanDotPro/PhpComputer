@@ -34,7 +34,7 @@ class Nand extends Bit implements ObserverInterface
     {
         if ($this->input1->state() === self::ON && $this->input2->state() === self::ON) {
             $this->off();
-        } else if ($this->state() !== self::ON) {
+        } elseif ($this->state() !== self::ON) {
             $this->on();
         }
     }
