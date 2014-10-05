@@ -1,5 +1,7 @@
 # The PHP Computer
 
+[![Build Status](https://travis-ci.org/EvanDotPro/PhpComputer.svg?branch=master)](https://travis-ci.org/EvanDotPro/PhpComputer)
+
 This project is the result of procrastination combined with my desire to improve my understandings of the lower level components of computers. Simply put, this is an OOP PHP representation of the lowest level components of a computer. I may or may not add more components as I learn and understand more, but I'll happily accept pull requests.
 
 This project does not aim to have any practical use what-so-ever, aside from possibly entertainment or education value. However, it not necessarily aimed to help _teach_ the concepts it represents, and is likely to make more sense to those who already have a basic understanding of how computers work at a low level. To get a better understanding of these concepts, I highly recommend the book [But How Do It Know](http://www.amazon.com/gp/product/0615303765) by J. Clark Scott.
