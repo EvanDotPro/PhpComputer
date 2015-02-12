@@ -59,7 +59,7 @@ $bit->detach($observer); // You can also detach an observer if it is no longer "
 
 [NAND gates](http://en.wikipedia.org/wiki/NAND_gate) are one of many [logic gates](http://en.wikipedia.org/wiki/Logic_gate) which make up modern electronics and CPUs. NAND gates are significant because technically, you can implement _every_ possible computing operation using one or more NAND gates (they have [functional completeness](http://en.wikipedia.org/wiki/Functional_completeness)).
 
-To put it simply, a NAND gate is a very basic electrical circuit which has two inputs and one output. If both inputs are on, the output is powered off. Any other combination (both inputs on or one on and the other off) will turn the output on. (That's really all you need to know, but if you're wondering how that's electronically possible, NAND gates also have their own constant power source in addition to the inputs. The power from the two inputs acts on transistors to connect the NAND gate's output either to a ground or the power source.)
+To put it simply, a NAND gate is a very basic electrical circuit which has two inputs and one output. If both inputs are on, the output is powered off. Any other combination (both inputs off or one on and the other off) will turn the output on. (That's really all you need to know, but if you're wondering how that's electronically possible, NAND gates also have their own constant power source in addition to the inputs. The power from the two inputs acts on transistors to connect the NAND gate's output either to a ground or the power source.)
 
 A NAND gate can be represented with the following truth table:
 
