@@ -6,7 +6,9 @@ This project is the result of procrastination combined with my desire to improve
 
 This project does not aim to have any practical use what-so-ever, aside from possibly entertainment or education value. However, it not necessarily aimed to help _teach_ the concepts it represents, and is likely to make more sense to those who already have a basic understanding of how computers work at a low level. To get a better understanding of these concepts, I highly recommend the book [But How Do It Know](http://www.amazon.com/gp/product/0615303765) by J. Clark Scott.
 
-**Note:** While this could conceivably be evolved into a hardware emulation layer for PHP (maybe?), that is _not_ the goal of this project. Not only have I never looked at a single line of harware virtualization code in my life at the time of writing this, but it would also just be plain idiotic to attempt something like that with PHP.
+**Note:** While this could conceivably be evolved into a hardware emulation layer for PHP (maybe?), that is _not_ the goal of this project. Not only have I never looked at a single line of harware virtualization code in my life at the time of writing this, but it would also just be plain idiotic to attempt something like that with PHP. Stop thinking about such horrible things.
+
+Oh, and if you like this, you'll probably also enjoy [JointJS's Logic Circuits](http://www.jointjs.com/demos/logic).
 
 ## Install
 
